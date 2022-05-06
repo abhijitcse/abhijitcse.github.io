@@ -1,7 +1,7 @@
 /* Default css file for jemdoc. */
 
 body {
-	background: gainsboro;
+	background: white;
 	font-family: 'Lato', Verdana, Helvetica, sans-serif;
 	font-size: 14px;
 	padding-bottom: 8px;
@@ -100,6 +100,14 @@ li p {
   	padding: 0;
   	margin: 0;
   	border-radius: 50%;
+}
+
+.logo {
+  	padding: 0;
+  	margin: 0;
+  	width: 25px;
+  	height: 25px;
+  	vertical-align: middle;
 }
 
 div.infoblock {
